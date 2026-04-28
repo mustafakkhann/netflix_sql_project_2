@@ -1,1 +1,3 @@
-# netflix_sql_project_2
+# Netflix Movies and TV shows Data Analysis using SQL
+
+![Netlfix logo]()
